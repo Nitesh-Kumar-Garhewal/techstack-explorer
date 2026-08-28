@@ -925,7 +925,8 @@ The screenshots include:
 
 # Hosted Demo
 
-**Live Demo:** `https://techstack-explorer.onrender.com`
+**Live Demo:**  
+[https://techstack-explorer.onrender.com](https://techstack-explorer.onrender.com)
 
 The hosted application demonstrates the complete flow:
 
@@ -955,7 +956,7 @@ The video demonstrates:
 6. Exploring the graph
 7. Navigating through connected technologies
 
-**Demo Video:** `TODO - add video link`
+**Demo Video:** `https://drive.google.com/file/d/1uxJRbrkwVhGyaCW_jUZ1c_XunD0pGyBg/view?usp=sharing`
 
 ---
 
