@@ -729,7 +729,7 @@ Install:
 # 1. Clone the Repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone https://github.com/Nitesh-Kumar-Garhewal/techstack-explorer
 cd techstack-explorer
 ```
 
@@ -925,7 +925,7 @@ The screenshots include:
 
 # Hosted Demo
 
-**Live Demo:** `TODO - add hosted frontend URL`
+**Live Demo:** `https://techstack-explorer.onrender.com`
 
 The hosted application demonstrates the complete flow:
 
@@ -1024,8 +1024,8 @@ Possible future enhancements include:
 | Source code                | GitHub repository                                            |
 | README                     | This document                                                |
 | Screenshots                | `screenshots/`                                               |
-| Hosted demo                | To be added                                                  |
-| Screen recording           | To be added                                                  |
+| Hosted demo                | Render deployment                                            |
+| Screen recording           | Demo video                                                   |
 
 ---
 
